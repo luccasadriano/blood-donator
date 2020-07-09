@@ -1,0 +1,58 @@
+.meus_dados {
+    padding-top: 20px;
+}
+
+.meus_agendamentos{
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 490px;
+    height: 470px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+    float: right;
+}
+
+.alterar_dados_D {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 490px;
+    height: 470px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+    float: left;
+}
+
+output{
+    border-color: #ff4a5d;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+output:focus {
+    outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+}
+
+.meus_beneficios {
+    position: relative;
+    top: 10%;
+}
+
+.dados_d p {
+    padding: 0;
+    margin: 0;
+}
+
+.dados_d button {
+    margin-top: 20px;
+}
+
+.meus_dados input {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,51 @@
+.login {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 490px;
+    height: 100% 0%;
+    padding: 20px 0px;
+    margin-top: 20px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+}
+
+.pagina{
+    padding-top: 20px;
+}
+
+.trocalogin{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ff4a5d;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.links{
+    text-decoration: none;
+
+}
+
+input{
+    border-color: #ff4a5d;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+input:focus {
+    outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+}
+
+div.login button{
+    margin-top: 20px;
+}
+
+div.cadastros button{
+    margin-top: 20px;
+}

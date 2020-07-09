@@ -1,0 +1,167 @@
+.OrientacoesTexto {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 1000px;
+    height: 120px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+    margin-bottom: 20px;
+}
+
+.PaginaOrientacoes img {
+    border-radius: 0;
+    box-shadow: none;
+    margin: 0;
+    border: 0;
+    border-style: none;
+    padding-top: 5px;
+}
+
+.OrientacoesTexto h1 {
+    padding-top: 20px;
+}
+
+.orientacoesRequisitos{
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 490px;
+    height: 100% 0%;
+    padding: 20px 0px;
+    margin-top: 20px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+    float: left;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.orientacaoImpedimentos {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 490px;
+    height: 1120px;
+    padding: 20px 0px;
+    margin-top: 20px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+    float: right;
+    margin: 0;
+}
+
+.orientacoesRequisitos .orientacaoImpedimentos h1{
+    color: black;
+    font-size: 20px;
+}
+
+/* .fundoOrientacoes {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 1000px;
+    height: 1150px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+}
+
+div.orientacoes h1 {
+    border-radius: 8px;
+    border-top: 30px solid white;
+}
+
+
+.orientacao1 {
+    padding-right: 800px; 
+}
+
+.orientacao2 {
+    padding-right: 800px;
+}
+
+.orientacao3 {
+    padding-top: 64px;
+    padding-right: 800px;
+}
+
+.orientacao4 {
+    top: -523px;
+    position: relative;
+    padding-right: 350px;
+}
+
+.orientacao4 p{
+    padding-top: 1px;
+    position: relative;
+}
+
+.orientacao5 {
+    top: -530px;
+    position: relative;
+    padding-right: 350px;
+}
+
+.orientacao6 {
+    padding-top: 25px;
+    padding-right: 350px;
+    position: relative;
+    top: -530px;
+}
+
+.orientacao6 p {
+    padding-top: 2px;
+}
+
+.orientacaoImpedimento h5 {
+    color: black;
+    font-size: 20px;
+    top: -1190px;
+    position: relative;
+    padding-left: 520px;
+}
+
+.errado1 {
+    padding-left: 750px;  
+    top: -1180px;
+    position: relative;
+}
+
+.errado2 {
+    padding-left: 750px;  
+    top: -1180px;
+    position: relative;
+}
+
+
+.errado3 {
+    padding-left: 750px;  
+    top: -1180px;
+    position: relative;
+}
+
+
+.errado4 {
+    padding-left: 300px;  
+    top: -1682px;
+    position: relative;
+}
+
+.errado5 {
+    padding-left: 300px;  
+    top: -1682px;
+    position: relative;   
+}
+
+.errado6 {
+    padding-left: 300px;  
+    top: -1682px;
+    position: relative;   
+}
+
+.risco {
+    top: -2273px;
+    position: relative;   
+} 
+
+*/

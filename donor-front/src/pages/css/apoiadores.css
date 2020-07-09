@@ -1,0 +1,15 @@
+.fundoApoiadores {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 1000px;
+    height: 100% 0%;
+    padding: 20px 0px;
+    margin-top: 20px;
+    border-left: 28px solid white;
+    border-right: 28px solid white;
+}
+
+ul.apoiadores li {   
+    padding-top: 15px;
+}
